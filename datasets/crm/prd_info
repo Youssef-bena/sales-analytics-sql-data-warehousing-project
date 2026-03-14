@@ -1,0 +1,11 @@
+prd_id,prd_key,prd_nm,prd_cost,prd_line,prd_start_dt,prd_end_dt
+210,CO-RF-FR-R92B-58,HL Road Frame - Black- 58,,R ,2003-07-01,
+211,CO-RF-FR-R92R-58,HL Road Frame - Red- 58,,R ,2003-07-01,
+212,AC-HE-HL-U509-R,Sport-100 Helmet- Red,12,S ,2011-07-01,2007-12-28
+213,AC-HE-HL-U509-R,Sport-100 Helmet- Red,14,S ,2012-07-01,2008-12-27
+214,AC-HE-HL-U509-R,Sport-100 Helmet- Red,13,S ,2013-07-01,
+215,AC-HE-HL-U509,Sport-100 Helmet- Black,12,S ,2011-07-01,2007-12-28
+216,AC-HE-HL-U509,Sport-100 Helmet- Black,14,S ,2012-07-01,2008-12-27
+217,AC-HE-HL-U509,Sport-100 Helmet- Black,13,S ,2013-07-01,
+218,CL-SO-SO-B909-M,Mountain Bike Socks- M,3,M ,2011-07-01,2007-12-28
+219,CL-SO-SO-B909-L,Mountain Bike Socks- L,3,M ,2011-07-01,2007-12-28
